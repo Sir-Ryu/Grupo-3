@@ -43,6 +43,10 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● https://www.eneba.com/latam/
 
+*● https://store.epicgames.com/es-ES/
+
+*● https://www.ubisoft.com/es-es/
+
 ### *DH_Integrantes* 
 
 -*Maximo Conde* 
@@ -53,5 +57,4 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 -*Claudio Ivan Angel Quipildor*
 
--*CAmila Maidana Rojas*
 
