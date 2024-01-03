@@ -51,7 +51,7 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 -*Maximo Conde* 
 
--*Hector Fernando Calisaya* 
+-*Hector Fernando Calisaya* git:Fe24Le 
 
 -*Mariano Isidro burgos* 
 
