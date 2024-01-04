@@ -51,10 +51,10 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 -*Maximo Conde*  
 
--*Hector Fernando Calisaya*  git:Fe24Le 
+-*Hector Fernando Calisaya*   git:  Fe24Le 
 
--*Mariano Isidro burgos*  git:Sir-Ryu
+-*Mariano Isidro burgos*   git:  Sir-Ryu
 
--*Claudio Ivan Angel Quipildor*  git:Quipildor-Claudio
+-*Claudio Ivan Angel Quipildor*   git:  Quipildor-Claudio
 
 
