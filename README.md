@@ -17,13 +17,11 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ## **Etapas:**
 
--*Boceto*
-
--*Proyecto maquetizacion , y desarrollo beta*
+-*Boceto
 
 ## **Paginas**
 
-*● Home:* [HitGames/home](https://fe24le.github.io/DH_SPR2)
+*● Home*
 
 *● Detalle de producto*
 
@@ -48,12 +46,6 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 *● https://store.epicgames.com/es-ES/
 
 *● https://www.ubisoft.com/es-es/
-
-## **Flujo de trabajo**
-
- [Tablero trello](https://trello.com/b/4bt3QZLe/proyecto-dh-grupo-3)
-
-
 
 ### *DH_Integrantes* 
 
