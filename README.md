@@ -25,7 +25,7 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● Home:* [HitGames/home](https://fe24le.github.io/DH_SPR2)
 
-*● Detalle de producto* [HitGames/productDetail]([https://fe24le.github.io/DH_SPR2](https://sir-ryu.github.io/views/productDetail.html))
+*● Detalle de producto:* [HitGames/productDetail](https://sir-ryu.github.io/views/productDetail.html)
 
 *● Carrito de compras*
 
