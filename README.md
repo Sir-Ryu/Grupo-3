@@ -25,9 +25,9 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● Home:* [HitGames/home](https://fe24le.github.io/DH_SPR2)
 
-*● Detalle de producto:* [HitGames/productDetail](https://sir-ryu.github.io/views/productDetail.html)
+*● Detalle de producto:* [HitGames/productDetail](https://sir-ryu.github.io/productDetail.html)
 
-*● Carrito de compras*  Patch "/cart"
+*● Carrito de compras* Patch "/cart"
 
 *● Formulario de registro*[HitGames/register](https://fe24le.github.io/DH_SPR2/register.html))
 
@@ -49,10 +49,10 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 -*Claudio Ivan Angel Quipildor*   git:  Quipildor-Claudio
 
 
-### *EJECUTAR APP*
+### *Ejecutar la Aplicacion*
 
 npm run dev
 
-### *url*
-
+### *Server Url*
 http://localhost:3000/
+
