@@ -27,7 +27,7 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● Detalle de producto:* [HitGames/productDetail](https://sir-ryu.github.io/views/productDetail.html)
 
-*● Carrito de compras*
+*● Carrito de compras*  Patch "/cart"
 
 *● Formulario de registro*[HitGames/register](https://fe24le.github.io/DH_SPR2/register.html))
 
@@ -53,4 +53,6 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 npm run dev
 
+### *url*
 
+http://localhost:3000/
