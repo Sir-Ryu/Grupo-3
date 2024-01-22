@@ -25,13 +25,13 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● Home:* [HitGames/home](https://fe24le.github.io/DH_SPR2)
 
-*● Detalle de producto*
+*● Detalle de producto* 
 
 *● Carrito de compras*
 
-*● Formulario de registro*
+*● Formulario de registro*[HitGames/register](https://fe24le.github.io/DH_SPR2/register.html))
 
-*● Formulario de login*
+*● Formulario de login*[HitGames/login](https://fe24le.github.io/DH_SPR2/login.html)
 
 ## **Flujo de trabajo**
 
