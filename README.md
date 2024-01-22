@@ -49,3 +49,8 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 -*Claudio Ivan Angel Quipildor*   git:  Quipildor-Claudio
 
 
+### *EJECUTAR APP*
+
+npm run dev
+
+
