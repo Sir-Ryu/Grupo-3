@@ -6,17 +6,17 @@ body {
     letter-spacing: 0.2px;
     margin: 0;
     overflow-x: hidden;
-    background-color: #121212; /* Fondo general de la página */
-    color: #ffffff; /* Color del texto general */
+    background-color: #121212;
+    color: #ffffff;
 }
 
 header {
-    color: #ffffff; /* Color del texto en el encabezado */
-    font-family: 'Inter', sans-serif; /* Tipo de letra del encabezado */
-    font-size: 14px; /* Tamaño del texto */
-    font-weight: 400; /* Peso del texto (normal) */
-    letter-spacing: 0.2px; /* Espaciado entre caracteres */
-    line-height: 20px; /* Altura de línea */
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 20px;
 }
 /* ------------------------------------------------------------------------------------------- */
 
@@ -41,9 +41,9 @@ header {
 
 /* Estilos para el logo */
 #logo {
-    margin-right: 20px; /* Ajusta el espacio entre el logo y la barra de búsqueda */
-    width: 75px; /* Ajusta el ancho del logo según sea necesario */
-    height: 65px; /* Ajusta la altura del logo según sea necesario */
+    margin-right: 20px;
+    width: 75px;
+    height: 65px;
     object-fit: contain;
 
 }
@@ -56,21 +56,21 @@ header {
     width: 225px;
     margin-right: 20px;
     border-radius: 30px;
-    overflow: hidden; /* Oculta el desbordamiento */
+    overflow: hidden;
     background-color: #383838;
     
 }
 
 .search {
-    flex: 1; /* Hace que el input de búsqueda ocupe todo el espacio disponible */
-    padding: 8px; /* Ajusta el espacio interno de la barra de búsqueda */
-    border: none; /* Elimina el borde del input */
+    flex: 1;
+    padding: 8px; 
+    border: none;
     background-color: transparent;
-    color: white; /* Color del texto dentro del input */
+    color: white;
 }
 
 .search:focus {
-    outline: none; /* Elimina el borde al enfocar el input */
+    outline: none;
 }
 
 .search-icon {
@@ -90,13 +90,13 @@ ul {
 }
 
 .i1 li {
-    margin-right: 20px; /* Ajusta el espacio entre elementos de la lista */
+    margin-right: 20px;
 }
 
 ul li a {
     display: flex;
     align-items: center;
-    color: #fff; /* Cambia el color del texto según tus preferencias */
+    color: #fff;
     text-decoration: none;
 }
 
@@ -110,7 +110,7 @@ ul li a {
 /* Estilos para el lado derecho del nav */
 .nav-der {
     display: flex;
-    align-items: stretch; /* Ajusta para centrar verticalmente */
+    align-items: stretch;
     margin-right: 33px;
 }
 
@@ -194,6 +194,7 @@ h1 {
     margin-bottom: 10px;
 }
 
+/* ------------------------------------------------------------------------------------------- */
 /* Estilos para la información del juego */
 .game-info {
     flex: 1;
@@ -234,6 +235,7 @@ h1 {
     margin-top: 20px;
 }
 
+/* ------------------------------------------------------------------------------------------- */
 /* Estilos para el pie de página */
 footer {
     background-color: #333;
@@ -292,4 +294,18 @@ footer {
 footer a {
     color: #fff;
     text-decoration: none;
+}
+
+/* ------------------------------------------------------------------------------------------- */
+@media only screen and (max-width: 600px) {
+/*móviles */
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+/*tabletas */
+}
+
+
+@media only screen and (min-width: 1025px) {
+/*notebooks y pantallas más grandes */
 }
