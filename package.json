@@ -3,28 +3,25 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-
   "scripts": {
     "dev": "nodemon app.js",
     "start": "npm app.js"
-
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sir-Ryu/Grupo-3-HitGames.git"
   },
-
   "bugs": {
     "url": "https://github.com/Sir-Ryu/Grupo-3-HitGames/issues"
   },
-
-    "homepage": "https://github.com/Sir-Ryu/Grupo-3-HitGames#readme",
-
+  "homepage": "https://github.com/Sir-Ryu/Grupo-3-HitGames#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
