@@ -1,16 +1,27 @@
-let express = require('express');
-let app = express();
-let path = require('node:path');
+const express = require("express")
+const path = require("path")
 
-app.get('/', (req, res) => {
-    res.sendFile(path.join( __dirname,'views/index.html'));
-});
+const app = express()
 
-app.get('/cart', (req, res) => {
-    res.sendFile(path.join( __dirname,'views/cart.html'));
-});
-app.get('/', (req, res) => {
-    res.sendFile(path.join( __dirname,'views/index.html'));
-});
-app.use(express.static('public'))
-app.listen(3000,()=>console.log('Server up : http://localhost:3000'));
+const publicPath = path.resolve(__dirname, "./public");
+app.use(express.static(publicPath))
+
+const port = process.env.PORT || 3001
+
+app.listen(port, () => console.log(`Corriendo puerto ${port}`));
+
+app.get("/", (req, res) => {
+    res.sendFile(path.join(__dirname, "./views/index.html"))
+})
+
+app.get("/registro", (req, res) => {
+    res.sendFile(path.join(__dirname, 'views/registro.html'))
+})
+
+app.get("/login", (req, res) => {
+    res.sendFile(path.join(__dirname, 'views/login.html'))
+})
+
+
+
+

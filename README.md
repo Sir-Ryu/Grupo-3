@@ -17,23 +17,41 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ## **Etapas:**
 
--*Boceto
--*Este enlace lleva a la pagina home Deploy beta: [HitGames](https://fe24le.github.io/DH_SPR2)
+-*Boceto*
+-*Realizacion*
+-*Pruebas*
+
+## **Paginas(Este enlace lleva a la pagina home Deploy beta)**
+
+*● Home:* [HitGames/home](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/)
+
+*● Detalle de producto:*[HitGames/productDetail](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/productDetail.html)
+
+*● Carrito de compras:* [HitGames/productCar](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/views/productCart.html)
+
+*● Formulario de registro*[HitGames/registro](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/registro.html)
+
+*● Formulario de login:*[HitGames/login](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/login.html)
+
+**EN RENDER** :[HitGames](https://hitgames.onrender.com/)
+
+## **Paginas Similares**
+
+*● https://www.g2a.com/es/
+
+*● https://www.riotgames.com/es00
+
+*● https://store.steampowered.com/
+
+*● https://nextgames.com.ar/
+
+*● https://www.eneba.com/latam/
+
+*● https://store.epicgames.com/es-ES/
+
+*● https://www.ubisoft.com/es-es/
 
 
-## **Paginas**
-
-*● Home:* [HitGames/home](https://fe24le.github.io/DH_SPR2)
-
-*● Detalle de producto:* [HitGames/productDetail](https://sir-ryu.github.io/productDetail.html)
-
-*● Carrito de compras* Patch "/cart"
-
-*● Formulario de registro*[HitGames/register](https://fe24le.github.io/DH_SPR2/register.html))
-
-*● Formulario de login*[HitGames/login](https://fe24le.github.io/DH_SPR2/login.html)
-
-## **Flujo de trabajo**
 
  [Tablero trello](https://trello.com/b/4bt3QZLe/proyecto-dh-grupo-3)
 
