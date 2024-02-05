@@ -1,5 +1,3 @@
-
-
 # **Grupo-3-DH_Venture_Capitals**
 
 ![](https://github.com/Sir-Ryu/Grupo-3-HitGames/blob/main/desings/logo_sprint1.png)
@@ -17,11 +15,15 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ## **Etapas:**
 
--*Boceto*
--*Realizacion*
--*Pruebas*
+-*Boceto
 
-## **Paginas(Estos enlaces llevan al deploy Beta de las paginas)**
+-*Desarrollo Deploy Bata :Servidor Express
+
+-*Desarrollo Deploy Beta :Servidor Express -Vistas en EJS  : Para su uso  se debe descargar  DH_Sprint3   y ejecutar los comandos posicionados en la carpeta del proyecto ejecutar npm install desde su  consola
+luego iniciar el servidor  con:
+                      npm run start, o   npm run dev
+
+## **Paginas(Este enlace lleva a la pagina home Deploy beta)**
 
 *● Home:* [HitGames/home](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/)
 
@@ -33,7 +35,12 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● Formulario de login:*[HitGames/login](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/login.html)
 
+
 **EN RENDER** :[HitGames](https://hitgames.onrender.com/)
+
+
+ [Tablero trello](https://trello.com/b/4bt3QZLe/proyecto-dh-grupo-3)
+
 
 ## **Paginas Similares**
 
@@ -50,11 +57,6 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 *● https://store.epicgames.com/es-ES/
 
 *● https://www.ubisoft.com/es-es/
-
-
-
- [Tablero trello](https://trello.com/b/4bt3QZLe/proyecto-dh-grupo-3)
-
 
 ### *DH_Integrantes* 
 
@@ -73,4 +75,3 @@ npm run dev
 
 ### *Server Url*
 http://localhost:3000/
-
