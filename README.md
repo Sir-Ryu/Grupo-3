@@ -27,17 +27,18 @@ luego iniciar el servidor  con:
 
 ## **Paginas(Estos enlaces llevan al deploy Beta de las paginas)**
 
-*● Home:* [HitGames/home](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/)
+*● Home*: https://dh-hitgamessp3.onrender.com/
 
-*● Detalle de producto:*[HitGames/productDetail](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/productDetail.html)
+*● Formulario de login*: https://dh-hitgamessp3.onrender.com/login
 
-*● Carrito de compras:* [HitGames/productCar](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/views/productCart.html)
+*● Formulario de registro*: https://dh-hitgamessp3.onrender.com/register
 
-*● Formulario de registro*[HitGames/registro](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/registro.html)
+*● Detalle de producto*: https://dh-hitgamessp3.onrender.com/productDetail
 
-*● Formulario de login:*[HitGames/login](https://fe24le.github.io/Grupo-3-DH_Venture_Capitals/login.html)
+*● Carrito de compras*: https://dh-hitgamessp3.onrender.com/productCart
 
-**EN RENDER** :[HitGames](https://hitgames.onrender.com/)
+
+**EN RENDER** :[HitGames](https://hitgamessp3.onrender.com/)
 
 ## **Paginas Similares**
 
