@@ -17,9 +17,13 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 ## **Etapas:**
 
--*Boceto*
--*Realizacion*
--*Pruebas*
+-*Boceto
+
+-*Desarrollo Deploy Beta :Servidor Express
+
+-*Desarrollo Deploy Beta :Servidor Express -Vistas en EJS  : Para su uso  se debe descargar  DH_Sprint3   y ejecutar los comandos posicionados en la carpeta del proyecto ejecutar npm install desde su  consola
+luego iniciar el servidor  con:
+                      npm run start, o   npm run dev
 
 ## **Paginas(Estos enlaces llevan al deploy Beta de las paginas)**
 
