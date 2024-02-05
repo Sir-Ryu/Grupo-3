@@ -19,9 +19,9 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 -*Boceto
 
--*Desarrollo Deploy Beta :Servidor Express
+-*Desarrollo Deploy Beta :Servidor Express  - Server Url:http://localhost:3000/
 
--*Desarrollo Deploy Beta :Servidor Express -Vistas en EJS  : Para su uso  se debe descargar  DH_Sprint3   y ejecutar los comandos posicionados en la carpeta del proyecto ejecutar npm install desde su  consola
+-*Desarrollo Deploy Beta :Servidor Express -Vistas en EJS -- Server Url:http://localhost:8080/  : Para su uso  se debe descargar  DH_Sprint3   y ejecutar los comandos posicionados en la carpeta del proyecto ejecutar npm install desde su  consola
 luego iniciar el servidor  con:
                       npm run start, o   npm run dev
 
@@ -75,6 +75,5 @@ luego iniciar el servidor  con:
 
 npm run dev
 
-### *Server Url*
-http://localhost:3000/
+
 
