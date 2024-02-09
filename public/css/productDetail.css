@@ -1,5 +1,5 @@
-body {
-    font-family: 'Inter', sans-serif;
+/*body {
+    font-family:'Comfortaa', cursive;
     font-size: 14px;
     font-weight: normal;
     line-height: 20px;
@@ -8,20 +8,48 @@ body {
     overflow-x: hidden;
     background-color: #121212;
     color: #ffffff;
+}*/
+body {
+    padding:0px;
+    margin:0px;
+    font-size: 14px;
+    font-weight: normal;
+/*    line-height: 20px;
+    letter-spacing: 0.2px;*/
+    font-family: 'Comfortaa', cursive;
+/*    font-weight:bold;*/
+    color:#fff;
+    overflow-x: hidden;
+    background:#333;
+    scroll-behavior: smooth;
 }
 
+
 header {
+    background-color: #333;
+    color: red;
+    font-weight:800;
+    padding: 5px;
+    margin:0px;
+    font-size:20px;
+    -webkit-animation: Gradient 20s ease infinite;
+    -moz-animation: Gradient 20s ease infinite;
+    -o-animation: Gradient 20s ease infinite;
+    animation: Gradient 20s ease infinite;
+    font-family: 'Comfortaa', cursive; 
+}
+/*header {
     color: #ffffff;
     font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 0.2px;
     line-height: 20px;
-}
+}*/
 /* ------------------------------------------------------------------------------------------- */
 
 /* Estilos para la barra de navegación */
-.globalHeaderNav {
+/*.globalHeaderNav {
     position: fixed; 
     top: 0; 
     width: 100%;
@@ -32,7 +60,7 @@ header {
     padding: 20px 20px 20px 20px;
     background-color: #1d1d1d;
 }
-
+*/
 /* Estilos para el lado izquierdo del nav */
 .nav-izq {
     display: flex;
@@ -145,21 +173,32 @@ main {
     padding: 20px;
 }
 
-h1 {
+/*h1 {
     font-size: 2em;
     margin-bottom: 10px;
+
+}*/
+h1{
+    padding:0px;
+    margin:0px;
+    overflow: auto;
+    display:inline;
+    align-items: center;
 }
 
 .calificación {
     font-size: 1.2em;
     color: #999;
     margin-bottom: 20px;
+
 }
 
 /* Estilos para la sección de detalles del juego */
 .game-details {
     display: flex;
     flex-wrap: wrap;
+    background-color: #121212;
+    padding:3px;
 }
 
 /* Estilos para el carrusel principal */
@@ -237,13 +276,13 @@ h1 {
 
 /* ------------------------------------------------------------------------------------------- */
 /* Estilos para el pie de página */
-footer {
+/*footer {
     background-color: #333;
     padding: 20px;
     color: #fff;
     text-align: center;
 }
-
+*/
 .site-social,
 .customer-service,
 .copyright {
@@ -291,11 +330,11 @@ footer {
 }
 
 /* Estilos para los enlaces en el pie de página */
-footer a {
+/*footer a {
     color: #fff;
     text-decoration: none;
 }
-
+*/
 /* ------------------------------------------------------------------------------------------- */
 @media only screen and (max-width: 600px) {
 /*móviles */

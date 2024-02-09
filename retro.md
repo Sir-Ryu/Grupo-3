@@ -23,3 +23,4 @@ Sprint 3:
     Ademas fue notorio que el  usar plantillas EJS es muy util al trabajar com proyectos  mas grandes, y se hace nesesario  el definir una estructura general del html sus partes en bloques y sus estilos  para que sea mas facil separarlos, y corregir errores o realizar pruebas de implementacion o funcionamientos.
 
     La coordinacion de cada parte o desarrollador se va haciendo mas nesesaria conforme se van agregando mas elemntos al proyecto.
+

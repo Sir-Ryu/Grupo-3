@@ -1,5 +1,3 @@
-
-
 # **Grupo-3-DH_Venture_Capitals**
 
 ![](https://github.com/Sir-Ryu/Grupo-3-HitGames/blob/main/desings/logo_sprint1.png)
@@ -70,11 +68,3 @@ luego iniciar el servidor  con:
 -*Mariano Isidro burgos*   git:  Sir-Ryu
 
 -*Claudio Ivan Angel Quipildor*   git:  Quipildor-Claudio
-
-
-### *Ejecutar la Aplicacion*
-
-npm run dev
-
-
-

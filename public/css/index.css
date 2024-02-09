@@ -165,7 +165,7 @@ nav a:hover {
     height:60vh;
  
     /*background-image: linear-gradient(rgba(139, 0, , 0.5), rgba(0, 0, 255, 0.5)),url("./images/F_HG.jfif");*/
-    background-image: url("./public/images/F_HG.jfif");
+    background-image: url("/images/F_HG.jfif");
     background-size:60% ;
     background-repeat:no-repeat;
     color:white;
@@ -176,7 +176,7 @@ nav a:hover {
     padding-top:20vh;
     border:2px solid #fff;
 }
-#tagline {
+#tagline2 {
     font-size:50px;
     width:60%;
 }
@@ -282,7 +282,7 @@ nav a:hover {
         background-size:cover;
 
     }
-    #tagline {
+    #tagline2 {
         width:90%;
         font-size:30px;
     }
@@ -297,6 +297,15 @@ nav a:hover {
 
 
 }
+.foot{
+    width:100%;
+    padding:10vh 0px;
+    text-align:center;
+    font-weight:bold;
+    clear: both;
+    bottom: 0;
+}
+
 #footer {
     width:100%;
     padding:10vh 0px;
