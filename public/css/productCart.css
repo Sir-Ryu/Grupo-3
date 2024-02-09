@@ -1,0 +1,132 @@
+
+/*------------------------*/
+body {
+    padding:0px;
+    margin:0px;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: 'Comfortaa', cursive;
+    font-weight:bold;
+    color:#fff;
+/*    background:#333;*/
+/*    color: #7f8b92;*/
+    background-color: #171e22;
+/*    scroll-behavior: smooth;
+    overflow-x: hidden;
+    position: relative;*/
+}
+/*------------------------*/
+
+/*body{
+    position: relative;
+    color: #7f8b92;
+    background-color: #171e22;
+}*/
+
+
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/*footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}*/
+/*header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+*/
+section {
+    width: 45%;
+}
+
+
+.esp-1
+{
+    display: block;
+    height: 15px;
+    padding: 0 9em;
+}
+.hit-list {
+    padding: 0;
+    margin: 0;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 600;
+    color: #fff;
+/*    text-transform: uppercase;*/
+    list-style-type: none;
+}
+.hit-list > li {
+    display: inline-block;
+    font-size: 1.07rem;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5
+{
+    margin-bottom: 1.5rem;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 600;
+    color: #fff;
+/*    text-transform: uppercase;*/
+}
+
+
+a {
+    color: #dd163b;
+    -webkit-transition: .15s color;
+    -o-transition: .15s color;
+    transition: .15s color;
+    
+}
+
+a:focus,
+a:hover {
+    color: #dd163b;
+}
+
+
+.hit-btn {
+    display: inline-block;
+    padding: 9px 19px;
+    font-family: 'Comfortaa', cursive;
+    font-size: .87rem;
+    font-weight: 600;
+    line-height: 1.2;
+    text-align: center;
+ 
+}
+/* ------------------------------------------------------------------------------------------- */
+
+/*@media only screen and (max-width: 600px) {*/
+/*móviles */
+/*}*/
+
+/*@media only screen and (min-width: 601px) and (max-width: 1024px) {*/
+/*tabletas */
+/*}
+
+
+/*@media only screen and (min-width: 1025px) {*/
+/*notebooks y pantallas más grandes */

@@ -1,5 +1,3 @@
-
-
 # **Grupo-3-DH_Venture_Capitals**
 
 ![](https://github.com/Sir-Ryu/Grupo-3-HitGames/blob/main/desings/logo_sprint1.png)
@@ -19,17 +17,26 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 -*Boceto
 
-## **Paginas**
+-*Desarrollo Deploy Beta :Servidor Express  - Server Url:http://localhost:3000/
 
-*● Home*
+-*Desarrollo Deploy Beta :Servidor Express -Vistas en EJS -- Server Url:http://localhost:8080/  : Para su uso  se debe descargar  DH_Sprint3   y ejecutar los comandos posicionados en la carpeta del proyecto ejecutar npm install desde su  consola
+luego iniciar el servidor  con:
+                      npm run start, o   npm run dev
 
-*● Detalle de producto*
+## **Paginas(Estos enlaces llevan al deploy Beta de las paginas)**
 
-*● Carrito de compras*
+*● Home*: https://dh-hitgamessp3.onrender.com/
 
-*● Formulario de registro*
+*● Formulario de login*: https://dh-hitgamessp3.onrender.com/login
 
-*● Formulario de login*
+*● Formulario de registro*: https://dh-hitgamessp3.onrender.com/register
+
+*● Detalle de producto*: https://dh-hitgamessp3.onrender.com/productDetail
+
+*● Carrito de compras*: https://dh-hitgamessp3.onrender.com/productCart
+
+
+**EN RENDER** :[HitGames](https://hitgamessp3.onrender.com/)
 
 ## **Paginas Similares**
 
@@ -47,14 +54,17 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 *● https://www.ubisoft.com/es-es/
 
+## **Tablero trello**
+
+ [Tablero trello](https://trello.com/b/4bt3QZLe/proyecto-dh-grupo-3)
+
+
 ### *DH_Integrantes* 
 
--*Maximo Conde* 
+-*Maximo Conde*  
 
--*Hector Fernando Calisaya* 
+-*Hector Fernando Calisaya*   git:  Fe24Le 
 
--*Mariano Isidro burgos* 
+-*Mariano Isidro burgos*   git:  Sir-Ryu
 
--*Claudio Ivan Angel Quipildor*
-
-
+-*Claudio Ivan Angel Quipildor*   git:  Quipildor-Claudio
