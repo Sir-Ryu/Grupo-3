@@ -19,24 +19,24 @@ y que presentemos un boceto gráfico de las principales secciones a implementar,
 
 -*Desarrollo Deploy Beta :Servidor Express  - Server Url:http://localhost:3000/
 
--*Desarrollo Deploy Beta :Servidor Express -Vistas en EJS -- Server Url:http://localhost:8080/  : Para su uso  se debe descargar  DH_Sprint3   y ejecutar los comandos posicionados en la carpeta del proyecto ejecutar npm install desde su  consola
-luego iniciar el servidor  con:
+-*Desarrollo Deploy Beta :Servidor Express -Vistas en EJS -- Server Url:http://localhost:8080/  
+  luego iniciar el servidor  con:
                       npm run start, o   npm run dev
 
 ## **Paginas(Estos enlaces llevan al deploy Beta de las paginas)**
 
-*● Home*: https://dh-hitgamessp3.onrender.com/
+*● Home*: https://dh-hitgamessp4.onrender.com/
 
-*● Formulario de login*: https://dh-hitgamessp3.onrender.com/login
+*● Formulario de login*: https://dh-hitgamessp4.onrender.com/login
 
-*● Formulario de registro*: https://dh-hitgamessp3.onrender.com/register
+*● Formulario de registro*: https://dh-hitgamessp4.onrender.com/register
 
-*● Detalle de producto*: https://dh-hitgamessp3.onrender.com/productDetail
+*● Detalle de producto*: https://dh-hitgamessp4.onrender.com/productDetail
 
-*● Carrito de compras*: https://dh-hitgamessp3.onrender.com/productCart
+*● Carrito de compras*: https://dh-hitgamessp4.onrender.com/productCart
 
 
-**EN RENDER** :[HitGames](https://hitgamessp3.onrender.com/)
+**EN RENDER** :[HitGames](https://dh-hitgamessp4.onrender.com/)
 
 ## **Paginas Similares**
 
